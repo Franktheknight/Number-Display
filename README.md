@@ -1,2 +1,3 @@
 # Number-Display
 This is a shadowing project I made for the coral tile team in E4E. In This project, I used my knowledge in electrical engineering and computer science to create an embedded system. The system consist of a ESP8266 wifi module that will host a local server, and users can log into that server to interact with the system. In the web server, user can input a number, increment or decrement that number, and display the latest last digit of bitcoin. To learn more about this project, please see the PDF file for the complete documentation.
+Here is a demo for this project: https://drive.google.com/file/d/1QN5zWmFe0ThF6daH4dLiDASF3T-kOCDK/view?usp=sharing
